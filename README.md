@@ -1,3 +1,3 @@
 # Ejercicios
-Ejercicios Modelos
-Juan David Rosero Torres
+##Ejercicios Modelos
+###Juan David Rosero Torres
